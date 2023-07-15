@@ -1,0 +1,8 @@
+export const CONSTANT={
+    "ADD_TO_LIST":"ADD_TO_LIST",
+    "REMOVE_TO_LIST":"REMOVE_TO_LIST",
+    "REMOVE_FROM_API":"REMOVE_FROM_API",
+    "FETCH_Data":"FETCH_Data",
+    "PUSH_TO_API":"PUSH_TO_API",
+    "CHANGE_TO_API":"CHANGE_TO_API",
+} 
